@@ -1,6 +1,6 @@
 innessa04/innessa04 is a ✨ special ✨ repository because its `README.md![Banner](link_to_your_image)
 
-# Hi, I'm [Innessa04]! 👋
+# Hi, I'm Innessa04! 👋
 
 I'm a cybersecurity enthusiast with a focus on **penetration testing** and **UI design**. I love exploring new vulnerabilities, securing systems, and creating clean and user-friendly interfaces. In addition to my passion for security, I’m a developer working with **Python**, **C++**, and **JavaScript**.
 
