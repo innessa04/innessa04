@@ -14,6 +14,4 @@ I'm a cybersecurity enthusiast with a focus on **penetration testing** and **UI 
 - 📧 Email: kiq.art092@gmail.com
 
 I’m always open to new collaborations, challenges, and opportunities in cybersecurity and design. Let’s connect!
-` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
