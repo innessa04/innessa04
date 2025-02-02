@@ -1,4 +1,4 @@
-innessa04/innessa04 is a ✨ special ✨ repository because its `README.md![Banner](link_to_your_image)
+![Banner](banner-me)
 
 # Hi, I'm Innessa04! 👋
 
