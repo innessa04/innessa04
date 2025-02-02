@@ -1,4 +1,4 @@
-![Banner](banner-me)
+![Banner](banner-me.png)
 
 # Hi, I'm Innessa04! 👋
 
