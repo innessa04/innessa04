@@ -2,7 +2,7 @@
 
 # Hi, I'm Innessa04! 👋
 
-I'm a cybersecurity enthusiast with a focus on **penetration testing** and **UI design**. I love exploring new vulnerabilities, securing systems, and creating clean and user-friendly interfaces. In addition to my passion for security, I’m a developer working with **Python**, **C++**, and **JavaScript**.
+I'm a cybersecurity enthusiast with a focus on **penetration testing** and my other passion is **UI design**. I love exploring new vulnerabilities, securing systems, and creating clean and user-friendly interfaces. In addition to my passion for security, I’m a developer working with **Python**, **C++**, and **JavaScript**.
 
 ## Technologies I use
 - 🛡️ **Cybersecurity & Penetration Testing**: Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap
